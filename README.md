@@ -6,5 +6,10 @@
    - HTML Paragraph
    - HTML Style Attribute
 3. [Section-2]()
-4. [Section-3]()
-5. [Section-4]()
+   - HTML Formating
+   - HTMLComments
+   - Simple CSS
+   - HTML Links
+   - HTML Images
+5. [Section-3]()
+6. [Section-4]()
