@@ -5,6 +5,6 @@
    - HTML Heading
    - HTML Paragraph
    - HTML Style Attribute
-3. [Templates]()
-4. [Templates]()
-5. [Templates]()
+3. [Section-2]()
+4. [Section-3]()
+5. [Section-4]()
