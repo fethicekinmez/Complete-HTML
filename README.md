@@ -5,7 +5,7 @@
    - HTML Heading
    - HTML Paragraph
    - HTML Style Attribute
-3. [Section-2]()
+3. [Section-2](https://github.com/fethicekinmez/Complete-HTML/tree/main/Section-2)
    - HTML Formating
    - HTML Comments
    - Simple CSS
