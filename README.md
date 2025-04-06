@@ -7,7 +7,7 @@
    - HTML Style Attribute
 3. [Section-2]()
    - HTML Formating
-   - HTMLComments
+   - HTML Comments
    - Simple CSS
    - HTML Links
    - HTML Images
